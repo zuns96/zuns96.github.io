@@ -1,4 +1,4 @@
-const cubism2Model = "http://gim9520.ivyro.net/Resources/Tendo/tendo.model3.json";
+const cubism2Model = "https://raw.githubusercontent.com/zuns96/zuns96.github.io/blog/tendo.model3.json";
 
 const live2d = PIXI.live2d;
 
